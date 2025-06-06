@@ -89,7 +89,8 @@ Este trabajo práctico tiene como objetivo la configuración de un servidor GNU/
 ## 7. Diagrama de Infraestructura
 
 
-**(El archivo del diagrama se encuentra en el repositorio bajo el nombre `topologia.png` o `topologia.pdf`)**
+![Diagrama Topológico](https://raw.githubusercontent.com/AbrilSantiso/Debian/refs/heads/master/DiagramaTopologico.png)
+
 
 ---
 
